@@ -18,13 +18,6 @@ This project contains the following files:
 - Python 3+
 - Python IDE or Text Editor and Command Line Interface
 
-
-- Instructions:
-  - Copy the ``.env.example`` file to `.env` and fill out the environment variables.
-  - Install all the libraries needed to execute main.py.
-  - Run the main.py script
-  
-
 - Windows:
 ```
   pip3 install -r requirements.txt
