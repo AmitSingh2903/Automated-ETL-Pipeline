@@ -1,4 +1,4 @@
-﻿# Automated ETL Pipeline
+﻿# Automated ETL Pipeline: Online Transaction
 ## Project Description
 The goal of the project is to build an ETL pipeline. ETL (Extract, Transform, Load) is a data pipeline used to collect data from various sources, transforms the data according to business requirements, and loads the data into a destination data storage.
 
